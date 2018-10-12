@@ -2,12 +2,10 @@ Introduction to SageMaker.
 
 Training materials
 ==================
-1) Built-in algorithms example with KNN is named
+1) Built-in algorithms example using K-Nearest Neighbors is accessible via SageMaker's Examples Tab and is named:
 
-> k_nearest_neighbors_covtype.ipynb
+'k_nearest_neighbors_covtype.ipynb'
 
-and can be accessed via the SageMaker Examples tab.
-
-2) Distributed training available here:
+2) Distributed training is available here:
 
 https://github.com/cyrusmvahid/GluonBootcamp/tree/master/labs/distributed_training_gluon
